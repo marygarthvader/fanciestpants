@@ -1,29 +1,16 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2024-04-05 17:47:59 -0400
-categories: jekyll update
+title:  "A Missive from Mr. Ditz"
+date:   2024-04-21 17:47:59 -0400
+categories: mrditz
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Dear Mrs. Ditz,
 
-Jekyll requires blog post files to be named according to the following format:
+It has come to my attention that one can die from drinking too much water. I can’t say I’m entirely surprised. I’m always suspicious of perfection, which is why I love you. I have since turned to Dr. Conman’s tincture of methamphetamine and rice vinegar as my liquid of choice, and it’s true: I feel more alive than ever.
 
-`YEAR-MONTH-DAY-title.MARKUP`
+Life as of late has been unbearably pleasant. The feeling is foreign. Ever since our prescriptive sojourn to the coast, I find myself counting the hours until my next scheduled arrangement and picking fights with small children in the interludes. Before me lies the opportunity to at last become the gentleman-scholar-athlete I envy, and yet – could it be? I miss my gout. My good, enduring, all-consuming gout that I so foolishly flushed with brackish waters. In truth I feel naked without it. All of my dreams at my fingertips, if only I just reached – what man could bear it?
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+I look forward to returning to you and to our tiresome quarrels. You, my love, my gout. 
 
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Yours faithfully,
+Mr. Ditz
