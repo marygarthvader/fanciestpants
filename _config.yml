@@ -26,8 +26,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
+theme: no-style-please
 remote_theme: riggraz/no-style-please
-# remote_theme: riggraz/no-style-please
 plugins:
   - jekyll-feed
 
