@@ -3,6 +3,7 @@ layout: post
 title:  "A Missive from Mr. Ditz"
 date:   2024-04-21 17:47:59 -0400
 categories: mrditz
+author: "Mr. Ditz"
 ---
 Dear Mrs. Ditz,
 
@@ -12,5 +13,5 @@ Life as of late has been unbearably pleasant. The feeling is foreign. Ever since
 
 I look forward to returning to you and to our tiresome quarrels. You, my love, my gout. 
 
-Yours faithfully,
+Yours faithfully,  
 Mr. Ditz
