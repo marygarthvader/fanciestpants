@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Fall Pieces to Transition to Winter"
-date:   2024-09-15 17:47:59 -0400
+date:   2024-09-30 17:47:59 -0400
 categories: lauren
 author: "Lauren Loves Life"
 ---
