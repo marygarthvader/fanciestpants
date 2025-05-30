@@ -12,8 +12,11 @@ Fall is a great time to shore up your inner goddess against those pesky winter b
 Am I though? What is enough? But more importantly, what is "I"? What if I am nothing? What if "I" doesn't exist? Clinging to an imaginary boundary to shirk the responsibility of being part of a whole? When in reality the obliteration of the self is a (if not the) path away from suffering and toward peace?
 
 WAKE UP! These are exactly the thoughts you need to say "Bye, Felicia!" to. Before winter fully sets in, I recommend practicing at least 3 ways to protect yourself. My personal favorites? 
+
 1) Starting endless, energy-consuming fights with tall hubby! Break up, make up, who cares? You just need to create constant existential threats to distract yourself.
+
 2) Listening to a podcast or literally anything at all times! Sometimes I press my electric toothbrush against my skull to drown out my thoughts. 
+
 3) Spending money! Doesn't matter on what. Just make sure it's enough to create the need to WORK! Menial labor is an amazing way to consume all that extra time and brainspace!
 
 Before you know it, summer will roll around again, and the sun will disinfect. Stay strong, girlies!
